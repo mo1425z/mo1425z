@@ -9,4 +9,4 @@
 
 <h3 align="center">Ich kann:</h3>
 
-HTML, CSS, Python, C# und ein bisschen Javascript
+<p align="center">HTML, CSS, Python, C# und ein bisschen Javascript</p>
